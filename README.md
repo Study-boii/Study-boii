@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Study-boii
+# 👋 Hi, I’m Aditya Biradar
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on AI projects 
